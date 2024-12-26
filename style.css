@@ -1,0 +1,43 @@
+.custom-navbar {
+  background-color: #ed8728; /* Warna latar hijau */
+  color: white; /* Warna teks */
+}
+
+.custom-navbar .navbar-brand,
+.custom-navbar .nav-link {
+  color: white; /* Warna teks di navbar */
+}
+
+.custom-navbar .nav-link:hover {
+  color: #ffeb3b; /* Warna teks saat hover */
+}
+
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #fbe8c9;
+}
+
+#pendaftaran {
+  background-color: #ffffff;
+}
+
+#Projects {
+  background-color: #fbe8c9;
+}
+
+section {
+  padding-top: 5 rem;
+}
+
+.custom-footer {
+  background-color: #ed8728; /* Warna latar hijau */
+  color: white; /* Warna teks */
+}
+
+.custom-footer a {
+  color: #ffeb3b; /* Warna link */
+}
+
+.custom-footer a:hover {
+  color: #ffffff; /* Warna link saat hover */
+}
